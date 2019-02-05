@@ -101,6 +101,8 @@ description:    Super-fast Jekyll framework
 # Default:      ""
 baseurl:        /gh-pages-test
 
+flatten_base:   true
+
 # CSS path used in templates
 #
 # Default:      /assets
