@@ -7,7 +7,7 @@
 # Jekyll basic configurations
 #
 source:         _app
-destination:    _site
+destination:    docs
 timezone:       America/Los_Angeles
 permalink:      /:title.html
 markdown:       kramdown
@@ -99,7 +99,7 @@ description:    Super-fast Jekyll framework
 # `/my-project`, without trailing slash.
 #
 # Default:      ""
-baseurl:        /lab/amsf
+baseurl:        ""
 
 # CSS path used in templates
 #
